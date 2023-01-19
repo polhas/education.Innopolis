@@ -1,5 +1,5 @@
 # education.Innopolis
-//lesson 1
+
 // Math
 import java.util.*;
 
